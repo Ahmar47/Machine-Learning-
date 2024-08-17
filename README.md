@@ -12,4 +12,4 @@ The system processes images from different events and stores face embeddings for
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ahmar47/FaceRecognitionEventManager.git
+   git clone https://github.com/ahmar47/Face-Recognition-Event-Manager.git
